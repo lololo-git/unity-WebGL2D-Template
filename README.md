@@ -5,7 +5,7 @@
 - Build with WebGL
 - Canvas size is 960 x 540
 - Contains
-  - TitleScene adn GameScene
+  - TitleScene and GameScene
   - ParamsSO
 
 # What's next?
